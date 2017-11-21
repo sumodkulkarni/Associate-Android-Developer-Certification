@@ -19,7 +19,11 @@ All the info and material about the certification that I've collected so far.
 <img src="https://raw.githubusercontent.com/Amejia481/Associate-Android-Developer-Certification/master/img/android_certification_specs.png" align="center" >
 
 
-#### Testing and Debugging
+
+
+
+
+## Testing and Debugging
 >Writing tests to verify that the application's logic and user interface are performing as expected, and executing those tests using the developer tools. Candidates should be able to analyze application crashes, and find common bugs such as layout errors and memory leaks. This includes working with the debuggers to step through application code and verify expected behavior.
 
 - Write and execute a local JVM unit test
@@ -58,7 +62,12 @@ All the info and material about the certification that I've collected so far.
 - Debug and fix an issue binding data to views
     - [[Android Developer Site] Debug your App](https://developer.android.com/studio/debug/index.html)
 
-#### Application User Interface (UI) and User Experience (UX)
+
+
+
+
+
+## Application User Interface (UI) and User Experience (UX)
 >Implementation of the visual and navigational components of an application's design. This includes constructing layouts–using both XML and Java code–that consist of the standard framework UI elements as well as custom views. Candidates should have a working knowledge of using view styles and theme attributes to apply a consistent look and feel across an entire application. Understanding of how to include features that expand the application's audience through accessibility and localization may also be required.
 
 - ~~Mock up the main screens and navigation flow of the application~~
@@ -69,7 +78,7 @@ All the info and material about the certification that I've collected so far.
   
 - Describe interactions between UI, background task, and data persistence
 - ~~Construct a layout using XML or Java code~~
-  - ~~ [ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code) ~~
+  - ~~[ [Techotopia] Creating an Android User Interface in Java Code](http://www.techotopia.com/index.php/Creating_an_Android_User_Interface_in_Java_Code)~~
 - Create a custom view class and add it to a layout
   - [[Team Treehouse Course] Custom Views in Android](https://teamtreehouse.com/library/custom-views-in-android)
 - Implement a custom application theme
@@ -109,7 +118,11 @@ All the info and material about the certification that I've collected so far.
  - Add accessibility hooks to a custom view
     - [[Android Developer Page] Building Accessible Custom Views](https://developer.android.com/guide/topics/ui/accessibility/custom-views.html)
 
-#### Fundamental Application Components
+
+
+
+
+## Fundamental Application Components
 >Understanding of Android's top-level application components ([Activity](https://www.youtube.com/playlist?list=PLWy8DQlwJkdw5GZHEj4ZhR4cayR-ou6Hh), [Service](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzW-dHvL1py-vyF6vYEmDmw), [Broadcast Receiver](https://www.youtube.com/playlist?list=PLWy8DQlwJkdwtBDTpP3tsjx0wXhR2shOq), [Content Provider](https://www.youtube.com/playlist?list=PLWy8DQlwJkdy2_bBHMQgGyrN4784K3Go0)) and the lifecycle associated with each one. Candidates should be able to describe the types of application logic that would be best suited for each component, and whether that component is executing in the foreground or in the background. This includes strategies for determining how and when to execute background work.
 - Describe an application's key functional and nonfunctional requirements
 - Create an Activity that displays a layout resource
@@ -132,7 +145,11 @@ All the info and material about the certification that I've collected so far.
    -  [[Jayway Blog] The Browseable Category](https://blog.jayway.com/2009/09/24/the-browsable-category-revealed/)
 - Integrate code from an external support library
 
-#### Persistent Data Storage
+
+
+
+
+## Persistent Data Storage
 >Determining appropriate use cases for local [persisted data](https://www.youtube.com/playlist?list=PLWy8DQlwJkdzafwjoVUcx9283oIbJQvFC), and designing solutions to implement data storage using files, preferences, and databases. This includes implementing strategies for bundling static data with applications, caching data from remote sources, and managing user-generated private data. Candidates should also be able to describe platform features that allow applications to store data securely and share that data with other applications in a secure manner.
 
 - Define a database schema; include tables, fields, and indices
