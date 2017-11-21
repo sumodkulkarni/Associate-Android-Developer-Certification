@@ -175,7 +175,12 @@ All the info and material about the certification that I've collected so far.
   - [[Udacity Course] Developing Android Apps Lesson: Preferences](https://www.udacity.com/course/new-android-fundamentals--ud851)
 - Toggle application logic based on preference values
   - [[Udacity Course] Developing Android Apps Lesson: Preferences](https://www.udacity.com/course/new-android-fundamentals--ud851)
-#### Enhanced System Integration
+
+
+
+
+
+## Enhanced System Integration
 >Extending applications to integrate with interfaces outside the core application experience through notifications and app widgets. This includes displaying information to the user through these elements and keeping that information up to date. Candidates should also understand how to provide proper navigation from these external interfaces into the application's main task, including appropriate handling of deep links.
 
 - Create an app widget that displays on the device home screen
